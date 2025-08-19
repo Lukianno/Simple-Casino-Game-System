@@ -1,0 +1,1 @@
+[{ "gameName": "Game1", "gameServiceAddress": "http://localhost:6003", "rules": [{ "ruleName": "delayTime", "type": "number", "minValue": 5, "maxValue": 60 }] }]
