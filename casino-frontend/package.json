@@ -1,0 +1,4 @@
+{
+  "name": "casino-frontend",
+  "dependencies": {"react": "^18.0.0", "@microsoft/signalr": "^7.0.0"}
+}
